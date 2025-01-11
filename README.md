@@ -56,5 +56,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 If you have any questions or suggestions, please contact:
-- John Doe <john.doe@example.com>
-- Jane Smith <jane.smith@example.com>
+- Rashid Aman <Rashidaman05@gmail.com> - Sole Author of the App
+- Asel Wickramathialke - Crowd Counting, implemented Seperately
+- Pasan Senarath - Hardware 
