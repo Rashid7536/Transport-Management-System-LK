@@ -27,7 +27,7 @@ This repository contains the source code for a Transportation Management System 
 
 ## Installation
 1. Clone the repository:
-git clone https://github.com/your-username/transportation-management-system.git
+git clone https://github.com/rashid7536/Transport-Management-System-LK.git
 
 2. Install the required dependencies:
 You can check the pubspec.yaml for dependencies
